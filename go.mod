@@ -30,3 +30,5 @@ require (
 	golang.org/x/sys v0.0.0-20200420163511-1957bb5e6d1f
 	gopkg.in/yaml.v2 v2.3.0
 )
+
+replace github.com/haproxytech/config-parser/v3 v3.0.0-rc1.0.20201124101355-82ebcd4e6d2c => github.com/dimichxp/config-parser/v3 v3.0.1
